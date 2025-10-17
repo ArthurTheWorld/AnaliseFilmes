@@ -36,9 +36,6 @@ Projeto Filmes/
 ├─ README.md # Este arquivo
 └─ .gitattributes # Configuração do Git LFS
 
-bash
-Copiar código
-
 ## Como Executar
 
 1. Clone o repositório:
